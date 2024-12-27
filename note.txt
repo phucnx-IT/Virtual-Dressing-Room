@@ -1,0 +1,9 @@
+// Bikinitop
+width:"500px",
+height:"500px",
+background:`url(${img})`,
+position:"absolute",
+top:"-9%",
+left:"-5%",
+zIndex:"3",
+transform:"scale(0.5)"
